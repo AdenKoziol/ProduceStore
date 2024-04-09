@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProduceStore/static/css/main.db15929b.css",
+    "main.js": "/ProduceStore/static/js/main.d1dfeaaf.js",
+    "index.html": "/ProduceStore/index.html",
+    "main.db15929b.css.map": "/ProduceStore/static/css/main.db15929b.css.map",
+    "main.d1dfeaaf.js.map": "/ProduceStore/static/js/main.d1dfeaaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db15929b.css",
+    "static/js/main.d1dfeaaf.js"
+  ]
+}
